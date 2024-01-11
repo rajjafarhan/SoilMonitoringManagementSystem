@@ -1,2 +1,2 @@
-[Link to Document](Soil Moisture Monitoring System-final.pdf)
-![Document](./Soil Moisture Monitoring System-final.pdf)
+[Link to Document](Soil%20Moisture%20Monitoring%20System-final.pdf)
+![Document](Soil%20Moisture%20Monitoring%20System-final.pdf)
